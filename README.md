@@ -1,2 +1,2 @@
-# my_project_php
-just simple core php application
+# php_project
+just simple core php based online advertisement application..
